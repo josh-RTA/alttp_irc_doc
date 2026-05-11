@@ -301,6 +301,8 @@ T1 also posts an escape godtas of is own. Curious about this as well lol.
 
 Krystal posts an interesting route for the Beetle room. Not sure if there's anything to it or not.
 
+<!-- TODO: day where Jadin first says the word 'waffle'. Would potentially be fun to count occurrences lol -->
+
 ## Feb 17
 
 This kind of thing used to happen frequently:
@@ -423,3 +425,136 @@ No, you can't, and it beggars belief that a good player who's practiced the room
 ```
 
 ## Feb 23
+
+Krystal talks about how her best Escape time is 5:23 SDA/5:50 SRL. She figures that 49 is doable but not much better.  
+
+This stuff makes me think there's no way piromu is leveraging turbo for wallpumps (again, I really should just watch his PB):
+```
+[8:32am] <Kryssstal> piromu 5:51 to camera scroll stop
+```
+
+Christos and acmlm mention that they both started running in December 2011.
+
+Christos gets a 1:27:52, beating piromu and taking 2nd place. He's a little over 1 minute off the record now.
+
+Cygfher comes up with the "move up a little" strat for starting the lanmo fight:
+```
+[11:11pm] <Kryssstal> aud?
+[11:11pm] <Kryssstal> test this
+[11:11pm] <Kryssstal> (11:57:17 AM) scyfur: i believe it is better to
+[11:11pm] <Kryssstal> (11:57:34 AM) scyfur: after dashing into the wall at the start of lanmo, try and walk 1-2 pixels upward
+[11:11pm] <Kryssstal> (11:57:40 AM) scyfur: from the after-crash position
+[11:11pm] <Kryssstal> (11:57:59 AM) scyfur: seems to give me better possibility of not getting fucked by the due-east trajectory of 1st worm
+[11:11pm] <Kryssstal> (11:58:35 AM) scyfur: i try to slash and charge sword and then walk upward for slower speed etc
+```
+
+## Feb 24
+
+Krystal posts the lttp4http video on how you can turn Link's sword poke rightwards after the first up dash in Agah Tower Dark Pits room. Almost no one does this strat anymore (shoutouts to Xelna for keeping it alive), so I think this stuff has drifted into obscurity.
+
+Krystal has been contemplating a lot about what counts as out-of-bounds in a dungeon since new glitch tech had dropped. She posts this image, which I think is a definition she sticks to: https://imgur.com/yr04OsW
+
+Using this model of "boundaries", Ice Breaker and Diver Down would of course be in the NMG run. But also leaving the possibility to clip into pots (like the ones that go to fairy room in Hera) is probably not a good idea.
+
+acmlm figures out an easier DMA using the hookshot. Unfortunately, due to the hookshot requirement, it's not valuable in the context of an Any% No EG run.
+
+## Feb 26
+
+There's a discussion about the big key chest in Thieves' Town. Krystal has a path that dashes to the chest, but she's complaining about it, saying it only saves 3 frames and is easy to do poorly. This leads to her switching to dash left on prev screen + walk downleft to the chest, which is how everyone does it now.
+
+Jadin watches cyghfer's smv pack. He has some funny thoughts on the agah2 stuff:
+```
+[2:03am] <@Jabin> this avi is dumb
+[2:03am] <@Jabin> use spin if attacks will meet together
+[2:04am] <@Jabin> for agah2
+[2:04am] <@Jabin> use slash if they're really separated
+[2:04am] <@Jabin> the end
+```
+
+Which is actually pretty good wisdom generally speaking.
+
+Well, he's correct!
+```
+[4:27am] <@Jabin> I still don't think desert cannonballs is rng
+[4:27am] <@Jabin> savestate before tentacles and killed them asap
+[4:27am] <@Jabin> ran into cannonballs 10/10 times
+```
+
+Jadin brings up the NW Room in Desert after getting gloves. He thinks the dash route is best, and it is if you do it perfectly. Krystal doesn't think it has any value, and she won't do it in her runs.
+
+Christos posts a big list of puzzle goals.
+
+Audity posts Gifted with Greenies (lol).
+<!-- TODO: Describe this strat some. -->
+
+Nope! But I guess acmlm hasn't looked at the disassembly and described how this works yet. So lots of "that's just what it seems like" kind of understanding to things.
+```
+[6:21pm] <Kryssstal> the rng is static unless you sword spin
+[6:21pm] <Kryssstal> or dash
+```
+
+Krystal works out how to clip the stairs to B2 screen in Escape to get into EG. She thinks this will be useful for Defeat Ganon. Lanturn joins and she updates him on all the things that have been found lately. He seems slightly overwhelmed lol.
+
+Hmmm 1/1000? I should script this screen to figure up odds lol. That feels very low to me though, and I say that as someone who thinks Ropa Lotto is often exaggerated.
+```
+[10:21pm] <ChristosOwen> if all that shit happens
+[10:21pm] <ChristosOwen> i will die
+[10:22pm] <ChristosOwen> is plant even lotto? or way to manipulate?
+[10:22pm] <Kryssstal> idk it hits me like 1/1000
+[10:22pm] <Kryssstal> in practice
+[10:22pm] <Kryssstal> so idk
+```
+
+Krystal comes up with a puzzle goal to get Tempered Sword without getting any other items or talking to any other NPCs besides the dwarven smiths. Other chatters find this goal vexing.
+
+## Feb 27
+
+First mention I've seen of the south boomdash in Hera's Tile Room.
+
+Jesus christ lol
+```
+[4:31am] <@Murderbydeath> why does anything with tits have 11,000 followers on twitch
+[4:32am] <ineb_tfm> cuz tits
+[4:32am] <ineb_tfm> people like them?
+[4:33am] <Stimilant> wow mbd
+[4:33am] <Stimilant> =O wow
+[4:34am] <Acmlm> who needs tits, just get a yellow shirt and go to AGDQ
+[4:34am] <Acmlm> 3737 followers without ever streaming anything
+```
+
+## Feb 28
+
+Frankly insane amounts of 'Call Me Maybe' discussion over the past like two days.
+
+Discussions of Game Saver
+<!-- TODO: maybe write more about it? -->
+
+Discussions of flash carts
+<!-- TODO: maybe write about this some -->
+
+Good demonstration of EG knowledge at the time. This continues for a bit. I think it's Skuj who finally drills down into what's really going on here (and also develops the idea of EG Strength). But I guess I'll see.
+```
+[12:39pm] <@ChristosOwen> i have a question about EG and i wonder if you know the answer
+[12:39pm] <@ChristosOwen> you know when you're in EG and you find rooms which allow you to "hop" back in bounds
+[12:39pm] <@ChristosOwen> for example ganons tower lobby
+[12:39pm] <@Tompa> Ye
+[12:39pm] <@ChristosOwen> do you know "why" this works? is there a known criteria for "hoppable" points/rooms
+[12:39pm] <@Tompa> There has to be a room with two layers
+[12:39pm] <@ChristosOwen> and is there any collated data of where these rooms are
+[12:40pm] <@Tompa> Which means most rooms with stairs
+[12:40pm] <@Tompa> To take you from layer 0 to layer 1
+[12:40pm] <@ChristosOwen> ah that actually makes a lot of sense
+[12:40pm] <@Tompa> And vice versa
+[12:40pm] <@Tompa> There are some exceptions to this, when both the upper floor and the floor floor are part of the same layer
+[12:40pm] <@Tompa> Such as the statue pushing room in PoD and main room in Hyrule Castle
+```
+
+They also know about these interactions:
+```
+[editor's note: referring to Tile Room in Desert before Lanmolas]
+[12:45pm] <@Tompa> The tile room might be like that because of the moveable wall before the boss
+[12:45pm] <@ChristosOwen> that would make sense for PoD too then
+[12:45pm] <@ChristosOwen> mire also has a movable wall
+```
+
+This discussion leads to posting the first known underworld map I (created by Audity). It has markings for the rooms the rooms that crash and some of the rooms that are "hoppable" (ie. you can jump back in bounds).
