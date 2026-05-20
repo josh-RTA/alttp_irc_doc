@@ -30,7 +30,7 @@ Prominent active players at the time:
 - jeanclaude (Vivaldi19888 on Twitch): A French player and classically trained pianist/musician.
 - T1 (theterribleone on Twitch)
 - solidus
-- addeheed (or simply, adde): A Swedish player and one of the best players at this time. When things start, he's been banned from SRL because he wasn't streaming his runs live and trolled the SRL mods when confronted about it. He's therefore not in the chat at the beginning, but he's occasionally talked about, usually in a negative manner. Due to his immature demeanor (he was literally a 14/15 year old child) and love of trolling, he was widely disliked by the community at the time.
+- addeheed (or simply, adde): A Swedish player and one of the best players at this time. When things start, he's been banned from SRL because he wasn't streaming his runs live and trolled the SRL mods when confronted about it. He's therefore not in the chat at the beginning, but he's occasionally talked about, usually in a negative manner. Due to his immature demeanor (he was literally a 15 year old child) and love of trolling, he was widely disliked by the community at the time.
 - SeanCass: An American runner who's teaching ESL in China. He has a Wak-ish time, but he's a big knowledge/theory guru and frequently participates in discussions around the game's mechanics, glitches, and strats. He's also one of the better teachers of the game at this point in time.
 - Yuzuhara: also sometimes goes by the name Zyphia in the chat. A Japanese runner, TASer, and glitch hunter. Probably not news to anyone reading this, but he goes on to be the most prolific glitch hunter in the history of this game.
 - Audra? (I'm not sure yet if I need to list her)
@@ -52,6 +52,7 @@ People who get mentioned:
 - Jiano
 - Sicko
 - Siglemic
+- joshthefunkdoc
 
 ## The beginning context
 

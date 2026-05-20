@@ -29,6 +29,8 @@ T1 posts a video of doing the Dark Pits room in Agah Tower the same way everyone
 
 Krystal makes the final evolution with GT clip where she discovers that after the warp, you can use a hookdash to walk through one of the corners and land at the bottom of the mountain in a single jump.
 
+First day where 'ajneb174' posts in the chat. He goes on to be a fairly significant player in the 2014-2016 years.
+
 ## Feb 3
 
 She's never gotten a 2 cycle Agahnim2 in a run? lol
